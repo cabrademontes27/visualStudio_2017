@@ -11,6 +11,7 @@ namespace ConsoleApp1
             for (int i = 10; 1 > 11; i++)
             {
                 Console.WriteLine(i);
+                Console.WriteLine("new string");
             }
         }
     }
